@@ -3,6 +3,7 @@ MORE MALLOC, FREE
 It aims to learn about how to use malloc, calloc, realloc and exit functions in C language.
 
 Files
+
 0-malloc_checked.c 	Allocates memory using malloc
 
 1-string_nconcat.c 	Concatenates two strings
