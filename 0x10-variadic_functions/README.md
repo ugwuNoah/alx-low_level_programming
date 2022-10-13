@@ -1,7 +1,9 @@
 VARIADIC FUNCTIONS
+
   It aims to learn about variadic functions in C language.
 
 Files:
+
   0-sum_them_all.c 	Returns the sum of all its parameters
 
   1-print_numbers.c 	Prints numbers
