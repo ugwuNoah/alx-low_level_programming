@@ -1,12 +1,13 @@
 C -  Bit manipulation
 
-In this project, I praticed the concept of Bit manipulation.
+    In this project, I praticed the concept of Bit manipulation.
 
 Header File 📁
 
     main.h: Header file containing definitions and prototypes for all types and functions written for the project.
 
 Tasks 📃
+
     0-binary_to_uint.c 	
       Converts a binary number to an unsigned int
       
