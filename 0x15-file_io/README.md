@@ -1,7 +1,6 @@
   C - File i/o
 
-    In this project, I praticed the concept of Bit manipulation.
-
+    It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in C language.
 
   Header File 📁
 
